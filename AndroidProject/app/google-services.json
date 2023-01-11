@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204640458788",
+    "firebase_url": "https://whenifree-b0b05-default-rtdb.firebaseio.com",
+    "project_id": "whenifree-b0b05",
+    "storage_bucket": "whenifree-b0b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204640458788:android:d9b666496278bf4869e0b1",
+        "android_client_info": {
+          "package_name": "com.nik.someproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204640458788-rit3ec11vpqbkd77u7dtml69mi3nrflq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBuQDteJ0yoWb1SKDFuA85uQ4EA1j5H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204640458788-rit3ec11vpqbkd77u7dtml69mi3nrflq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

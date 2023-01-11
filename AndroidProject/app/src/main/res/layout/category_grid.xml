@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:grid="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <GridLayout
+        android:id="@+id/grid_category"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:orientation="horizontal"
+        grid:alignmentMode="alignBounds" />
+</LinearLayout>

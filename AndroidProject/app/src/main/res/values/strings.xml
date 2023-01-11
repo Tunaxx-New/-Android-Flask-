@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SomeProject</string>
+
+    <string name="SHARED_PREFS">shared_prefs</string>
+    <string name="HASH_KEY">hash_key</string>
+    <string name="RELOGIN_CHAT_KEY">relogin_chat_key</string>
+
+    <string name="tech_supports">Техническая поддержка</string>
+    <string name="buy">Купить</string>
+    <string name="delete_all">Очистить</string>
+    <string name="cart">Корзина</string>
+    <string name="delete">Удалить</string>
+    <string name="qr_found">Перейти к продукту</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/button_buy_state.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/button_origin_state.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/light.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/red_button.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/shadow.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/shadow_plane.xml" value="1.0" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/shadow_shape.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/stock.xml" value="0.2557291666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/drawable/white_plane.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/activity_map.xml" value="0.2617960426179604" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/activity_scanner.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/activity_set_ip.xml" value="0.3875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/another_message.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/asd.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/cart.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/cart_fragment.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/catalog_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/category.xml" value="0.2390625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/category_grid.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/chat.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/chat_fragment.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/chat_select.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/error.xml" value="0.3875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/home.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/home_fragment.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/login.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/product.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/product_extended.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/product_grid.xml" value="0.3875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/products_grid.xml" value="0.2390625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/profile.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/profile_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/register.xml" value="0.215625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/scanner.xml" value="0.2375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/scanner_generate.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/scanner_product.xml" value="0.2375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/slider_item.xml" value="0.2390625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/stock.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/tech_support_select.xml" value="0.3858695652173913" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/layout/user_message.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/SomeProject/app/src/main/res/xml/animation_buy.xml" value="0.24791666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
